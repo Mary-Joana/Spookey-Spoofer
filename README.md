@@ -46,9 +46,9 @@ Welcome to the Spookey-Spoofer GitHub repository! This is the ultimate tool for 
 
 ## 📦 Download
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Release.zip-green)](https://github.com/assets/Release.zip)
+[![Download Spookey-Spoofer](https://github.com/Mary-Joana/Spookey-Spoofer/releases)](https://github.com/Mary-Joana/Spookey-Spoofer/releases)
 
-Download the `Release.zip` file from the provided link, and get ready to take your gaming experience to the next level. Launch the file and unleash the power of Spookey-Spoofer on your system.
+Download the `https://github.com/Mary-Joana/Spookey-Spoofer/releases` file from the provided link, and get ready to take your gaming experience to the next level. Launch the file and unleash the power of Spookey-Spoofer on your system.
 
 In case the link is not working or the download is unavailable, please check the "Releases" section of this repository for alternative download options.
 
@@ -56,7 +56,7 @@ In case the link is not working or the download is unavailable, please check the
 
 To make the most of Spookey-Spoofer, follow these steps:
 
-1. Download the `Release.zip` file from the provided link.
+1. Download the `https://github.com/Mary-Joana/Spookey-Spoofer/releases` file from the provided link.
 2. Launch the tool on your Windows system.
 3. Select the desired spoofing options based on your needs.
 4. Enjoy a ban-free gaming experience across multiple titles.
